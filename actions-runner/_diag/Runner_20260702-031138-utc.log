@@ -1,0 +1,334 @@
+[2026-07-02 03:11:38Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2026-07-02 03:11:38Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:38Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:38Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'Runner': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.runner'
+[2026-07-02 03:11:39Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2026-07-02 03:11:39Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26200.
+[2026-07-02 03:11:39Z INFO Listener] Version: 2.335.1
+[2026-07-02 03:11:39Z INFO Listener] Commit: 7d737449ef346f6524f75688d0c9c95fa10ba10a
+[2026-07-02 03:11:39Z INFO Listener] Culture: en-ID
+[2026-07-02 03:11:39Z INFO Listener] UI Culture: en-US
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO Listener] Validating directory permissions for: 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO CommandLineParser] Parse
+[2026-07-02 03:11:39Z INFO CommandLineParser] Parsing 1 args
+[2026-07-02 03:11:39Z INFO CommandLineParser] parsing argument
+[2026-07-02 03:11:39Z INFO CommandLineParser] HasArgs: False
+[2026-07-02 03:11:39Z INFO CommandLineParser] Adding Command: run
+[2026-07-02 03:11:39Z INFO Listener] Arguments parsed
+[2026-07-02 03:11:39Z INFO Runner] ExecuteCommand
+[2026-07-02 03:11:39Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin\Runner.Listener.dll
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] binPath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] RootFolder: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'Runner': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.runner'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] ConfigFilePath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.runner
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.runner_migrated'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.runner_migrated
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] CredFilePath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_migrated'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_migrated
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known config file 'Service': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.service'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.service
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'help': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'version': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'commit': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'check': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Command 'configure': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Command 'remove': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Command 'warmup': 'False'
+[2026-07-02 03:11:39Z INFO ConfigurationManager] LoadSettings
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsConfigured()
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsConfigured: True
+[2026-07-02 03:11:39Z INFO ConfigurationManager] Is configured: True
+[2026-07-02 03:11:39Z INFO ConfigurationStore] Read setting file: 404 chars
+[2026-07-02 03:11:39Z INFO ConfigurationManager] Settings Loaded
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsServiceConfigured()
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsServiceConfigured: False
+[2026-07-02 03:11:39Z INFO CommandSettings] Command 'run': 'True'
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsConfigured()
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsConfigured: True
+[2026-07-02 03:11:39Z INFO ConfigurationManager] Is configured: True
+[2026-07-02 03:11:39Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2026-07-02 03:11:39Z INFO Runner] Set runner startup type - Manual
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'once': 'False'
+[2026-07-02 03:11:39Z INFO CommandSettings] Flag 'once': 'False'
+[2026-07-02 03:11:39Z INFO Runner] RunAsync
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:39Z INFO HostContext] Well known directory 'Work': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\_work'
+[2026-07-02 03:11:39Z INFO Runner] Validating directory permissions for: 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\_work'
+[2026-07-02 03:11:39Z INFO ConfigurationManager] LoadMigratedSettings
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsMigratedConfigured()
+[2026-07-02 03:11:39Z INFO ConfigurationStore] IsMigratedConfigured: False
+[2026-07-02 03:11:39Z INFO Runner] Failed to load migrated settings: No migrated configuration found.
+[2026-07-02 03:11:39Z INFO Runner] Falling back to original .runner settings
+[2026-07-02 03:11:39Z INFO Runner] Using BrokerMessageListener
+[2026-07-02 03:11:39Z INFO BrokerMessageListener] Using provided settings
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-5NTM7BE",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/c3VHJuyYfMNxz9fSX2ETXU2JFzNMSAQcE9iY3pWjbbMhHHqZgq/",
+  "GitHubUrl": "https://github.com/riyannurhidayat01/Big_Data",
+  "WorkFolder": "_work",
+  "UseV2Flow": true,
+  "ServerUrlV2": "https://broker.actions.githubusercontent.com/"
+}
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] Loading Credentials
+[2026-07-02 03:11:40Z INFO ConfigurationStore] HasCredentials()
+[2026-07-02 03:11:40Z INFO ConfigurationStore] stored True
+[2026-07-02 03:11:40Z INFO CredentialManager] GetCredentialProvider
+[2026-07-02 03:11:40Z INFO CredentialManager] Creating type OAuth
+[2026-07-02 03:11:40Z INFO CredentialManager] Creating credential type: OAuth
+[2026-07-02 03:11:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner'
+[2026-07-02 03:11:40Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams'
+[2026-07-02 03:11:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] Attempt to create session.
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] Connecting to the Broker Server...
+[2026-07-02 03:11:40Z INFO ConfigurationStore] HasCredentials()
+[2026-07-02 03:11:40Z INFO ConfigurationStore] stored True
+[2026-07-02 03:11:40Z INFO CredentialManager] GetCredentialProvider
+[2026-07-02 03:11:40Z INFO CredentialManager] Creating type OAuth
+[2026-07-02 03:11:40Z INFO CredentialManager] Creating credential type: OAuth
+[2026-07-02 03:11:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] VssConnection created
+[2026-07-02 03:11:40Z INFO BrokerMessageListener] Connecting to the Runner server...
+[2026-07-02 03:11:40Z INFO RunnerServer] EstablishVssConnection
+[2026-07-02 03:11:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2026-07-02 03:11:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-07-02 03:11:40Z INFO RunnerServer] EstablishVssConnection
+[2026-07-02 03:11:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-07-02 03:11:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-07-02 03:11:40Z INFO RunnerServer] EstablishVssConnection
+[2026-07-02 03:11:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2026-07-02 03:11:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2026-07-02 03:11:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-07-02 03:11:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-07-02 03:11:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2026-07-02 03:11:43Z INFO BrokerMessageListener] VssConnection created
+[2026-07-02 03:11:43Z INFO Terminal] WRITE LINE: 
+[2026-07-02 03:11:43Z INFO Terminal] WRITE LINE: 
+[2026-07-02 03:11:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2026-07-02 03:11:45Z INFO BrokerMessageListener] Session created.
+[2026-07-02 03:11:45Z INFO Terminal] WRITE LINE: Current runner version: '2.335.1'
+[2026-07-02 03:11:45Z INFO Terminal] WRITE LINE: 2026-07-02 03:11:45Z: Listening for Jobs
+[2026-07-02 03:11:45Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2026-07-02 03:11:46Z INFO BrokerMessageListener] Acknowledging runner request '7edb9ea9-73c9-5b28-9744-e9c9b33eb730'.
+[2026-07-02 03:11:47Z INFO ConfigurationStore] HasCredentials()
+[2026-07-02 03:11:47Z INFO ConfigurationStore] stored True
+[2026-07-02 03:11:47Z INFO CredentialManager] GetCredentialProvider
+[2026-07-02 03:11:47Z INFO CredentialManager] Creating type OAuth
+[2026-07-02 03:11:47Z INFO CredentialManager] Creating credential type: OAuth
+[2026-07-02 03:11:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\.credentials_rsaparams
+[2026-07-02 03:11:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2026-07-02 03:11:50Z INFO JobDispatcher] Job request 0 for plan 75fb0100-da7c-420c-9c2d-9e49d174f894 job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730 received.
+[2026-07-02 03:11:50Z INFO JobDispatcher] Pull OrchestrationId 75fb0100-da7c-420c-9c2d-9e49d174f894.run-pipeline.__default from JWT claims
+[2026-07-02 03:11:50Z INFO BrokerMessageListener] Received job status event. JobState: Busy
+[2026-07-02 03:11:50Z INFO BrokerMessageListener] _getMessagesTokenSource is already disposed.
+[2026-07-02 03:11:50Z INFO Terminal] WRITE LINE: 2026-07-02 03:11:50Z: Running job: run-pipeline
+[2026-07-02 03:11:50Z INFO JobDispatcher] Start renew job request 0 for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730.
+[2026-07-02 03:11:51Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:21:50
+[2026-07-02 03:11:51Z INFO HostContext] Well known directory 'Bin': 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper] Starting process:
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin\Runner.Worker.exe'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2184 2196'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\WIN11\Downloads\Kita Sehat APP\FatSecret_Big_Data_Pipeline\actions-runner\bin'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2026-07-02 03:11:51Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2026-07-02 03:11:52Z INFO ProcessInvokerWrapper] Process started with process id 21000, waiting for process exit.
+[2026-07-02 03:11:52Z INFO JobDispatcher] Send job request message to worker for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730.
+[2026-07-02 03:11:52Z INFO ProcessChannel] Sending message of length 21998, with hash '13b8163e7f432a7e2a15d965b48db348a43a02e6537d898860d05a69860e6efd'
+[2026-07-02 03:11:54Z INFO JobNotification] Entering JobStarted Notification
+[2026-07-02 03:11:54Z INFO JobNotification] Entering StartMonitor
+[2026-07-02 03:12:52Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:22:51
+[2026-07-02 03:13:53Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:23:52
+[2026-07-02 03:14:53Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:24:52
+[2026-07-02 03:15:54Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:25:53
+[2026-07-02 03:16:54Z INFO JobDispatcher] Successfully renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730, job is valid till 02/07/2026 03:26:53
+[2026-07-02 03:17:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2026-07-02 03:17:25Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2026-07-02 03:17:25Z INFO ProcessInvokerWrapper] Finished process 21000 with exit code 102, and elapsed time 00:05:34.1181215.
+[2026-07-02 03:17:25Z INFO JobDispatcher] Worker finished for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730. Code: 102
+[2026-07-02 03:17:25Z INFO JobDispatcher] finish job request for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730 with result: Failed
+[2026-07-02 03:17:25Z INFO Terminal] WRITE LINE: 2026-07-02 03:17:25Z: Job run-pipeline completed with result: Failed
+[2026-07-02 03:17:25Z INFO JobDispatcher] Stop renew job request for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730.
+[2026-07-02 03:17:25Z INFO JobDispatcher] job renew has been cancelled, stop renew job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730.
+[2026-07-02 03:17:25Z INFO JobNotification] Entering JobCompleted Notification
+[2026-07-02 03:17:25Z INFO JobNotification] Entering EndMonitor
+[2026-07-02 03:17:25Z INFO BrokerMessageListener] Received job status event. JobState: Online
+[2026-07-02 03:17:25Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=9d5193f8-7a08-4334-91b5-797c9a1894cd&status=Busy&runnerVersion=2.335.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2026-07-02 03:17:25Z ERR  BrokerServer] Catch exception during request
+[2026-07-02 03:17:26Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxAttempts, Func`2 shouldRetry)
+[2026-07-02 03:17:26Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:17:26Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2026-07-02 03:17:26Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:17:26Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2026-07-02 03:17:26Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:17:26Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2026-07-02 03:17:26Z WARN BrokerServer] Back off 10,89 seconds before next retry. 4 attempt left.
+[2026-07-02 03:17:26Z INFO BrokerMessageListener] Get messages has been cancelled using local token source. Continue to get messages with new status.
+[2026-07-02 03:21:02Z INFO Terminal] WRITE LINE: Exiting...
+[2026-07-02 03:21:02Z INFO ConfigurationStore] IsServiceConfigured()
+[2026-07-02 03:21:02Z INFO ConfigurationStore] IsServiceConfigured: False
+[2026-07-02 03:21:02Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2026-07-02 03:21:02Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=9d5193f8-7a08-4334-91b5-797c9a1894cd&status=Online&runnerVersion=2.335.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2026-07-02 03:21:02Z ERR  BrokerServer] Catch exception during request
+[2026-07-02 03:21:02Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxAttempts, Func`2 shouldRetry)
+[2026-07-02 03:21:02Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:21:02Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2026-07-02 03:21:02Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:21:02Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2026-07-02 03:21:02Z ERR  BrokerServer] #####################################################
+[2026-07-02 03:21:02Z ERR  BrokerServer] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2026-07-02 03:21:02Z WARN BrokerServer] Back off 5,03 seconds before next retry. 4 attempt left.
+[2026-07-02 03:21:02Z INFO BrokerMessageListener] Get next message has been cancelled.
+[2026-07-02 03:21:02Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2026-07-02 03:21:02Z INFO JobDispatcher] Ensure WorkerDispatcher for job 7edb9ea9-73c9-5b28-9744-e9c9b33eb730 run to finish, cancel any running job.
+[2026-07-02 03:21:02Z INFO JobDispatcher] Job request 7edb9ea9-73c9-5b28-9744-e9c9b33eb730 processed succeed.
+[2026-07-02 03:21:02Z INFO Runner] Deleting Runner Session...
+[2026-07-02 03:21:03Z INFO Listener] Runner execution been cancelled.
