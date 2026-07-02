@@ -32,8 +32,8 @@ def init_db():
     db = MySQLdb.connect(
         host=MYSQL_HOST,
         user=MYSQL_USER,
-        passwd=MYSQL_PASSWORD,
-        db=MYSQL_DB
+        password=MYSQL_PASSWORD,
+        database=MYSQL_DB
     )
     cursor = db.cursor()
     # Create big_data_analysis table if not exists
@@ -160,8 +160,8 @@ def run_pipeline():
     db = MySQLdb.connect(
         host=MYSQL_HOST,
         user=MYSQL_USER,
-        passwd=MYSQL_PASSWORD,
-        db=MYSQL_DB
+        password=MYSQL_PASSWORD,
+        database=MYSQL_DB
     )
     cursor = db.cursor()
 
